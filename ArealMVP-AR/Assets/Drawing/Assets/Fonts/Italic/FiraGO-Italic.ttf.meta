@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 828c86b0813fb674d94c7b6e6a519de1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FiraGO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 82509a8772fa49843964707d039f2127, type: 3}
+  - {fileID: 12800000, guid: c1f0455e31394de4888e919a5e73e4b0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
